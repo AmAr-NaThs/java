@@ -6,7 +6,7 @@ class array
     {
         Scanner sc=new Scanner(System.in);
         int a[]=new int[50];
-        int max,min,n,temp,i,j;
+        int n,temp,i,j;
         System.out.println("enter the size of the array ");
         n=sc.nextInt();
         System.out.println("enter the elements");
